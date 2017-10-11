@@ -1,6 +1,6 @@
 # Core: Unix Utilities
 
-_More powerful than the spiky blue shell_
+_More powerful than the spiky blue shell yay_
 
 ## Working with this GitHub repository
 
